@@ -1,6 +1,5 @@
 # ==========================================================
 # CodeAlpha Internship - Task 2: Stock Portfolio Tracker
-# Features: Buy, Sell, Cash Wallet, Portfolio Summary & Export
 # ==========================================================
 
 # 1. Market Benchmark Stock Prices
