@@ -51,8 +51,8 @@ https://github.com/rathodravi5598/CodeAplha_Stock Portfolio Tracker.py](https://
 
 project live screen shot LINK
 
+<img width="791" height="330" alt="Screenshot 2026-09-19 090947" src="https://github.com/user-attachments/assets/f983dd7e-5d29-4e55-a4f8-726b66eb595c" />
 
-<img width="1095" height="816" alt="image" src="https://github.com/user-attachments/assets/c1c3f2fa-38ab-4afc-b12f-0536e70e695a" />
 
 
 
