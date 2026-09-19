@@ -1,4 +1,4 @@
-# 📈 Advanced Stock Portfolio Tracker (Task 2) — CodeAlpha
+# 📈 Advanced Stock Portfolio Tracker (Task 2)
 
 # CodeAlpha_Stock_portfolio-Tracker
 CodeAlpha_Hangman Game 
