@@ -47,7 +47,8 @@ THIS MAKED FOR A  BEGINNERS LEVE MAKED.....
 
 GIT HUB CLONE AND REPROSITRY ;
  THIS CLICK FOR OPEN THIS CODE FORMAT...
-https://github.com/rathodravi5598/CodeAplha_Stock Portfolio Tracker.py](https://github.com/rathodravi5598/CodeAlpha_Stock_Portfolio_Tracker/blob/main/CodeAplha_Stock%20Portfolio%20Tracker.py)
+https://github.com/rathodravi5598/CodeAplha_Stock Portfolio Tracker.py
+(https://github.com/rathodravi5598/CodeAlpha_Stock_Portfolio_Tracker/blob/main/CodeAplha_Stock%20Portfolio%20Tracker.py)
 
 project live screen shot LINK
 
